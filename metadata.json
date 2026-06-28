@@ -1,0 +1,6 @@
+{
+  "name": "DIET Dimapur",
+  "description": "Official Website Redesign for District Institute of Education & Training, Dimapur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
